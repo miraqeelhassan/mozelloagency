@@ -46,6 +46,9 @@ section.home {
   flex-direction: row;
   margin-top: 0;
 }
+section .home-content{
+margin-top: 20px;
+}
 
 /* BUTTON */
 .btn {
